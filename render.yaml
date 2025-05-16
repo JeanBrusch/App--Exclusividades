@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: imoveis-app-backend
+    env: node
+    plan: free # Ou o plano apropriado
+    buildCommand: "npm install"
+    startCommand: "npm start"
+    healthCheckPath: "/api/imoveis" # Uma rota simples para health check
+    envVars:
+      - key: NODE_VERSION
+        value: "18" # Especificar uma versão do Node compatível
+      # Outras variáveis de ambiente, se necessárias
+

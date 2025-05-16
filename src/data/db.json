@@ -1,0 +1,38 @@
+{
+  "properties": [
+    {
+      "title": "Casa Teste API",
+      "address": "Rua Teste API, 123",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "suites": 1,
+      "built_area": 150,
+      "total_area": 200,
+      "price": "750.000,00",
+      "condition": "Novo",
+      "description": "Descrição da casa teste via API.",
+      "notes": "Observações da casa teste.",
+      "cover_image_url": "https://i.imgur.com/vmfAEet.jpg",
+      "photos_google_drive_link": "https://link.उदाहरण.com/apitest",
+      "id": "1747230484374",
+      "propertyId": "1747230484374"
+    },
+    {
+      "propertyId": "1747235328252",
+      "title": "Casa Térrea ",
+      "address": "Sea Coast 13 12",
+      "bedrooms": 4,
+      "bathrooms": 5,
+      "suites": 3,
+      "built_area": 221,
+      "total_area": 390,
+      "price": "1600000",
+      "condition": "Usado",
+      "description": "Residência em ótimo estado de conservação, possui \nmobiliada \nárea de serviço separada, \nquintal com árvores frutíferas.",
+      "notes": "",
+      "cover_image_url": "https://imgur.com/a/gct20a7",
+      "photos_google_drive_link": "https://drive.google.com/drive/folders/1P75ZiFYcqFvgELPhZfYLDV1SaqU3HOLh?usp=drive_link",
+      "id": "1747235328252"
+    }
+  ]
+}
